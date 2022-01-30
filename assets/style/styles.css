@@ -1,0 +1,21 @@
+html{
+    scroll-behavior: smooth;
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+    color: blue;
+}
+
+#bio{
+    font-weight: bold;
+}
+#edu {
+    font-style: italic;
+}
+#legacy {
+text-decoration: underline;}
+#ven {
+text-align: end;
+cursor: pointer;
+}
